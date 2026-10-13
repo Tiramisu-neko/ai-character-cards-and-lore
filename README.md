@@ -41,13 +41,8 @@
 - 许可状态：LICENSE_STATUS.md
 - 贡献与修改规范：CONTRIBUTING.md
 - 给 AI 助手的项目说明：AGENTS.md
-- 发布前核对清单：RELEASE_CHECKLIST.md
 - 社交平台简短署名格式：SOCIAL_CREDIT_TEMPLATE.md
 
 ## 非官方声明
 
 本项目与 DeepSeek、OpenAI、Anthropic、Google、xAI、阿里巴巴、智谱、月之暗面、Bilibili 或列出的独立创作者均无官方隶属、合作或背书关系。相关名称和商标归各自权利人所有。
-
-## 下一步
-
-发布前按 RELEASE_CHECKLIST.md 完成最后的仓库信息核对。Pixiv 原帖目前无法直接核对，因此本包同时列出第三方保存的使用条件核验记录、来源链接和核查日期；公开使用仍严格限定为署名、非商业。
